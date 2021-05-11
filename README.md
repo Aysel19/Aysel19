@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aysel19
-- 👀 I’m interested in SQL
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Excel
 - 📫 How to reach me aysel.abbasova19@gmail.com
 
